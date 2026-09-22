@@ -22,7 +22,7 @@
 ![Блок-схема алгоритма](<img width="426" height="1063" alt="диаграмма" src="https://github.com/user-attachments/assets/533044a1-d789-4333-8fdf-4657d662bf26" />
 ) 
 
- [Изображение схемы в draw.io](https://drive.google.com/file/d/1UFQBxYvoUOKzXKAxmkXxQ7l_KFQyQJVK/view?usp=sharing)
+ [Изображение схемы в draw.io](https://drive.google.com/file/d/1ve5udnLA0IEZTFLhRRL9zkltUCyx2HeK/view?usp=sharing)
 
 
 ## 2. Реализация программы
