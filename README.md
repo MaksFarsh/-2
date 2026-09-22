@@ -39,7 +39,7 @@ void main() {
 	length = s / (l / 100);
 	price = length * x;
 	printf("Грей заплатил за %d метров ткани %d золотых", length, price);
-}```
+}
 
 ## 3. Результаты работы программы
 
